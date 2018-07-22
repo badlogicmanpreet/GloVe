@@ -1,3 +1,5 @@
+src/corpus.txt
+
 # Object files
 *.o
 *.ko
